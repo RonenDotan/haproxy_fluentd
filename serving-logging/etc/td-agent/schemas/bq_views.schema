@@ -1,0 +1,166 @@
+[
+  {
+    "name": "view_id",
+    "type": "STRING"
+  },
+  {
+    "name": "datetime",
+    "type": "TIMESTAMP"
+  },
+  {
+    "name": "publisher_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "country",
+    "type": "STRING"
+  },
+  {
+    "name": "city",
+    "type": "STRING"
+  },
+  {
+    "name": "asn",
+    "type": "INTEGER"
+  },
+  {
+    "name": "ua",
+    "type": "STRING"
+  },
+  {
+    "name": "device_id",
+    "type": "STRING"
+  },
+  {
+    "name": "sub_id1",
+    "type": "STRING"
+  },
+  {
+    "name": "sub_id2",
+    "type": "STRING"
+  },
+  {
+    "name": "param1",
+    "type": "STRING"
+  },
+  {
+    "name": "param2",
+    "type": "STRING"
+  },
+  {
+    "name": "param3",
+    "type": "STRING"
+  },
+  {
+    "name": "param4",
+    "type": "STRING"
+  },
+  {
+    "name": "app_name_s",
+    "type": "STRING"
+  },
+  {
+    "name": "app_bundle_s",
+    "type": "STRING"
+  },
+  {
+    "name": "carrier",
+    "type": "STRING"
+  },
+  {
+    "name": "domain",
+    "type": "STRING"
+  },
+  {
+    "name": "ip",
+    "type": "STRING"
+  },
+  {
+    "name": "browser_id",
+    "type": "STRING"
+  },
+  {
+    "name": "creative_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "os",
+    "type": "STRING"
+  },
+  {
+    "name": "os_version",
+    "type": "STRING"
+  },
+  {
+    "name": "device_brand",
+    "type": "STRING"
+  },
+  {
+    "name": "device_model",
+    "type": "INTEGER"
+  },
+  {
+    "name": "conn_type",
+    "type": "INTEGER"
+  },
+  {
+    "name": "link_type",
+    "type": "INTEGER"
+  },
+  {
+    "name": "link_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "tag_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "pslrid",
+    "type": "INTEGER"
+  },
+  {
+    "name": "is_bot",
+    "type": "INTEGER"
+  },
+  {
+    "name": "redirect",
+    "type": "INTEGER"
+  },
+  {
+    "name": "user_id",
+    "type": "STRING"
+  },
+  {
+    "name": "finger_print_id",
+    "type": "STRING"
+  },
+  {
+    "name": "fraud_score",
+    "type": "FLOAT"
+  },
+  {
+    "name": "block_types",
+    "type": "STRING"
+  },
+  {
+    "name": "additional_data",
+    "type": "STRING"
+  },
+  {
+    "name": "cost",
+    "type": "FLOAT"
+  },
+  {
+    "name": "client_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "idfa_androidid",
+    "type": "STRING"
+  },
+  {
+    "name": "dynamic_fields",
+    "type": "STRING"
+  }
+]
